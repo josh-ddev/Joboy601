@@ -1,4 +1,4 @@
-# Joboy601
+# josh-ddev
 Config files for my GitHub profile.
 # 💫 About Me:
 👋 Hi, I'm Josh, a passionate Front-end Developer based in Nigeria. I specialize in JavaScript,HTML,CSS,TailwindCSS and I'm always exploring new technologies to build innovative web applications. <br><br>🌱 Currently, I'm a computer science student.  <br><br>🚀 I'm currently learning ReactJS.<br><br>💡 In my free time, I love working on personal projects.<br><br>📫 You can reach out to me at sundayjoshuaotuke@gmail.com or connect with me on Twitter @jurrsh124. Let's collaborate and build something amazing together!<br>
